@@ -39,5 +39,5 @@ Competitive programming, system design, backend architecture, and building usefu
 
 ### Connect
 
-[GitHub](https://github.com/kalyanchilamkuri) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+[GitHub](https://github.com/kalyanchilamkuri) · [LinkedIn](www.linkedin.com/in/kalyan-chilamkuri-72a521304) · [Email](mailto:kalyanchilamkuri8@gmail.com)
 
