@@ -23,10 +23,15 @@ Computer Science undergraduate focused on building efficient software, reliable 
 
 ### Featured Projects
 
-- **[MiniMarket](https://github.com/kalyanchilamkuri/miniMarket)** — C++ order book and matching engine.
-- **CrowdInfra** — Crowdsourced demand mapping with backend APIs and AI-powered analysis.
-- **FileCompressor** — File compression and algorithmic problem solving.
-- **IIITLPlacements** — Placement resources for the IIIT Lucknow community.
+- **[MiniMarket]** — C++ order book and matching engine focused on efficient order processing.
+- **CrowdInfra** — Crowdsourced demand-mapping platform with geospatial functionality and AI-powered market analysis.
+- **FileCompressor** — File compression utility focused on algorithms and efficient file handling.
+- **IIITLPlacements** — Placement resources and tools for the IIIT Lucknow community.
+- **SmartClinic** — Smart healthcare management application designed to streamline clinic workflows.
+- **TravelPedia** — Travel-planning application built with React, Spring Boot, and MySQL.
+- **Resume ATS Checker** — Resume analysis tool designed to evaluate ATS compatibility and improve resume relevance.
+
+
 
 ### Beyond Coding
 
